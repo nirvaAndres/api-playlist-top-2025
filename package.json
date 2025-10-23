@@ -1,0 +1,16 @@
+{
+  "name": "api-playlist-top-2025",
+  "version": "1.0.0",
+  "description": "API sencilla de playlist musical para Render",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Andres Medina",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
