@@ -47,6 +47,11 @@ http://localhost:3000/ → Mensaje de bienvenida
 
 http://localhost:3000/api/songs → JSON con la lista de canciones
 
+
+URL RENDER :  https://api-playlist-top-2025.onrender.com/api/songs
+
+NOTA: El servidor render es un servidor gratuito el cual entra en sleep luego de los 15 minutos de inactividad, por tanto -> tomar en cuenta este detalle a la hora de probar y recargar la pagina un par de veces y esperar unos 5 min para ver resultados satisfactorios.
+
 👤 Autor: Andrés Medina
 💼 Desarrollador Front End Angular CLI
 📧 andresdmm25@gmail.com
